@@ -27,7 +27,6 @@ public class MaiorNumero {
             }
             System.out.println("Maior número: " + maior);
 
-
         }else{
             maior = num3;
             System.out.println("Maior número: " + maior);
